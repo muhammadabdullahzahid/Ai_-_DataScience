@@ -1,1 +1,19 @@
 My first Project
+Welcome to the official AI & Data Science repository for the course at Saylani Mass I.T Training (SMIT).
+
+This repository contains all the resources, code, and materials used throughout the course, including:
+
+Python programming basics and advanced techniques
+Git & GitHub workflow for version control and collaboration
+Machine Learning with scikit-learn and real-world examples
+Deep Learning using TensorFlow (Keras) and PyTorch
+Data manipulation and analysis with Pandas and NumPy
+Visualization techniques using Matplotlib and Seaborn
+APIs with FastAPI/Flask for building AI-powered web applications
+Cloud platforms (AWS, Google Cloud, Azure) for deploying models
+LangChain & LLMs (GPTs, Gemini) for working with large language models
+Structure
+Lectures: All notebooks and presentations from each session.
+Assignments: Coding exercises and project files for hands-on learning.
+Projects: Group projects and individual tasks to showcase your skills.
+Resources: Supplementary materials, including reference papers, datasets, and documentation links.
